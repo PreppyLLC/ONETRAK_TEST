@@ -15,6 +15,7 @@
 
 Результат выполнения нужно оформить на GitHub. В качестве ответа ждем ссылку на ваш репозиторий.
 
+<a href="https://github.com/PreppyLLC/ONETRAK_iOS_TEST/blob/master/Assets.zip">Необходимые картинки</a>
 #
 <p align="center">
   <img src="https://onetrak.s3.eu-central-1.amazonaws.com/static/ios_test_task/steps_test.jpg" width="480">
