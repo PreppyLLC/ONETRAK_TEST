@@ -20,7 +20,7 @@
 
 Результат выполнения нужно оформить на GitHub. В качестве ответа ждем ссылку на ваш репозиторий.
 
-Приблизительный дизайн:
+Макет экрана:
 #
 <p align="center">
   <img src="https://s3.eu-central-1.amazonaws.com/onetrak/static/ios_test_task/canvas2.png" width="480">
